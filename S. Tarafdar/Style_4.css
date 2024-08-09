@@ -1,0 +1,58 @@
+header {
+    background-color:rgb(97, 94, 94);
+}
+header span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: xx-large;
+}
+header a {
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header button a {
+    color: #000;
+}
+body {
+    background-image: url(bg1.jpg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+section h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: bisque;
+}
+section p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(167, 141, 113);
+}
+section img {
+    border-width: medium;
+    border-color: rgb(221, 207, 188);
+    border-style: solid;
+}
+footer {
+    background-color:rgb(97, 94, 94);
+}
+footer span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: xx-large;
+}
+footer a {
+    color: aliceblue;
+}
+footer p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: aliceblue;
+}
+footer span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    font-size: x-large;
+}
